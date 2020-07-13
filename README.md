@@ -29,4 +29,4 @@ C#, Python, Pytorch, tensorflow, OpenCV
 
 ## 고문서 이미지에서 개별 문자 이미지 감지
 
-Clovaai CRAF를 참고하여 고문서에서 개별 문자 이미지를 감지
+Clovaai CRAF를 기반으로하여 고문서에서 개별 문자 이미지를 감지 후 crop
